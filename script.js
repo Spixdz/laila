@@ -59,7 +59,7 @@ const slides = [
     body2: "Now I can't even imagine life without you being a part of it.",
     image: "pics/until_i_found_you.png",
     petals: ["pics/petal.png", "pics/rose.png"],
-    audioFile: "audio/until_i_found_you.mp3",
+    audioFile: "audio/golden_hour.mp3",
     start: 5
   },
   {
@@ -68,7 +68,7 @@ const slides = [
     body2: "I can't help but stare at you a little longer every time we meet",
     image: "pics/golden_hour.png",
     petals: ["pics/tulip.png", "pics/peony.png"],
-    audioFile: "audio/golden_hour.mp3",
+    audioFile: "audio/until_i_found_you.mp3",
     start: 5
   },
   {
