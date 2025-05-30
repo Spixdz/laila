@@ -84,13 +84,13 @@ const slides = [
 
 /***** Floating Love Notes Data *****/
 const loveNotes = [
-  "I love your smile more than anything.",
-  "You are my sunshine on a cloudy day.",
-  "I still get butterflies whenever I see you.",
-  "Your laughter is the sweetest melody.",
-  "Every moment with you feels like a dream.",
-  "I cherish every second by your side.",
-  "You make my heart skip a beat.",
+  "if being delulu for you was a crime, id be locked up periodt",
+  "id take out universal credit just to pay for popmart",
+  "i started thinking about us getting married ever since i met you xx",
+  "the way im mentally married to u? help me",
+  "ur the reason im up at 5am rn making this, i love you",
+  "ur my roman empire. but like. worse...",
+  "if i had a penny for every time i simped, id have lost count cus im a bit special",
 ];
 
 /***** Variables & DOM References *****/
